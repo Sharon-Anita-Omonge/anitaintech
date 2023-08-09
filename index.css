@@ -1,6 +1,6 @@
 @media(max-width: 500px){
-  div{a
-    color: whitesmoke;
+  div{
+    color:#F5F5F5;
     position: relative;
     width: 70%;
     margin: 15px 0 10px 0;
@@ -62,7 +62,7 @@ font-size: large;
 div{
   display: flex;
   flex-direction: column;
-  color: whitesmoke;
+  color: #F5F5F5;
   position: relative;
   width: 50%;
   margin: 15px 0 10px 0;
